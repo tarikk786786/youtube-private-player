@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.env
+Thumbs.db
+Desktop.ini
+.DS_Store
